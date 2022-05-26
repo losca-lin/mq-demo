@@ -1,0 +1,8 @@
+logging:
+  pattern:
+    dateformat: MM-dd HH:mm:ss:SSS
+spring:
+  rabbitmq:
+    host: 106.14.184.129
+    username: admin
+    password: 123456
